@@ -8,7 +8,7 @@
       "price": 22500,
       "date": "Mar 12 2022 10:00:00 AM",
       "views": 3652,
-      "src": "assets/images/1",
+      "src": "/assets/images/1",
       "tel": "+7 (930) 456 - 65 - 01",
       "location": "г. Нижний Новгород, улица Тимирязева, 9",
       "coordinates": [56.307129174823224, 44.00063863810793]
@@ -21,7 +21,7 @@
       "price": 500,
       "date": "Mar 13 2022 10:00:00 AM",
       "views": 36,
-      "src": "assets/images/2",
+      "src": "src/assets/images/2",
       "tel": "+7 (930) 456 - 65 - 02",
       "location": "г. Нижний Новгород, улица Адмирала Васюнина, 7к2",
       "coordinates": [56.298487, 44.041659]
